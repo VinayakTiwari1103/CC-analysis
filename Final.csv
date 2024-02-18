@@ -1,0 +1,20 @@
+clientID,Type,age,Gender,Dependent_count,Education_Level,Marital_Status,Income_Category,Card_Category,Credit_Limit,Total_Revolving_Bal,Avg_Open_To_Buy,Total_Trans_Amt,Total_Trans_Ct,Avg_Utilization_Ratio
+Vinayak,Existing Customer,20,M,3,High School,Married,$60K - $80K,Bronze,12691,777,11914,1144,42,0.061
+Niyati,Existing Customer,49,F,5,Graduate,Single,Less than $40K,Bronze,8256,864,7392,1291,33,0.105
+Nitya,Existing Customer,51,M,3,Graduate,Married,$80K - $120K,Bronze,3418,0,3418,1887,20,0
+Rutvik,Existing Customer,40,M,4,High School,Unknown,Less than $40K,Bronze,3313,2517,796,1171,20,0.76
+Khilav,Existing Customer,40,M,3,Uneducated,Married,$60K - $80K,Bronze,4716,0,4716,816,28,0
+Manan,Existing Customer,44,M,2,Graduate,Married,$40K - $60K,Bronze,4010,1247,2763,1088,24,0.311
+Manav,Existing Customer,51,M,4,Unknown,Married,$120K +,Gold,34516,2264,32252,1330,31,0.066
+Devang,Existing Customer,32,M,0,High School,Unknown,$60K - $80K,Silver,29081,1396,27685,1538,36,0.048
+Ansh,Existing Customer,37,M,3,Uneducated,Single,$60K - $80K,Bronze,22352,2517,19835,1350,24,0.113
+Harsh,Existing Customer,48,M,2,Graduate,Single,$80K - $120K,Bronze,11656,1677,9979,1441,32,0.144
+Ved,Existing Customer,42,M,5,Uneducated,Unknown,$120K +,Bronze,6748,1467,5281,1201,42,0.217
+Kirtan,Existing Customer,65,M,1,Unknown,Married,$40K - $60K,Bronze,9095,1587,7508,1314,26,0.174
+Druvil,Existing Customer,56,M,1,College,Single,$80K - $120K,Bronze,11751,0,11751,1539,17,0
+Avi,Existing Customer,35,M,3,Graduate,Unknown,$60K - $80K,Bronze,8547,1666,6881,1311,33,0.195
+Vidhi,Existing Customer,57,F,2,Graduate,Married,Less than $40K,Bronze,2436,680,1756,1570,29,0.279
+Vaibhav,Existing Customer,44,M,4,Unknown,Unknown,$80K - $120K,Bronze,4234,972,3262,1348,27,0.23
+Vraj,Existing Customer,48,M,4,Post-Graduate,Single,$80K - $120K,Bronze,30367,2362,28005,1671,27,0.078
+Iti,Existing Customer,41,F,3,Unknown,Married,$80K - $120K,Bronze,13535,1291,12244,1028,21,0.095
+Yash,Existing Customer,61,M,1,High School,Married,$40K - $60K,Bronze,3193,2517,676,1336,30,0.788
